@@ -198,12 +198,12 @@
       }
     
       .section {
-        padding: 20px 10px;
+        padding: 30px 10px;
       }
     
       .grid {
         grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
-        gap: 10px;
+        gap: 20px;
       }
     
       .field {
