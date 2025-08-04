@@ -189,12 +189,12 @@
       }
     
       .section-header {
-        padding: 25px 10px 0;
+        padding: 25px 0 0;
       }
     
       .section-title {
         font-size: 12px;
-        grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
+        grid-template-columns: repeat(auto-fit, minmax(155px, 1fr));
       }
     
       .section {
@@ -202,7 +202,7 @@
       }
     
       .grid {
-        grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
+        grid-template-columns: repeat(auto-fit, minmax(155px, 1fr));
         gap: 20px;
       }
     
